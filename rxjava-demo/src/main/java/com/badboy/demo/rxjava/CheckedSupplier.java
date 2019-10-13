@@ -9,7 +9,7 @@ package com.badboy.demo.rxjava;
  */
 
 @FunctionalInterface
-public interface CheckedSupplier<R> {
+public interface CheckedSupplier<R> {    
 
 	/**
 	 * Gets a result.
