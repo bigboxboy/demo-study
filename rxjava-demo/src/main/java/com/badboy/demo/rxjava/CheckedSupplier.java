@@ -5,7 +5,7 @@ package com.badboy.demo.rxjava;
  *
  * @param <R> the type of results supplied by this supplier
  * @author baojie
- * @since 1.0.0
+ * @since 1.0.0 hello
  */
 
 @FunctionalInterface
